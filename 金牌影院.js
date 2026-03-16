@@ -2,10 +2,10 @@ WidgetMetadata = {
   id: "jp_vod_full",
   title: "金牌影院",
   icon: "https://assets.vvebo.vip/scripts/icon.png",
-  version: "1.0.4",
+  version: "1.0.8",
   requiredVersion: "0.0.1",
   description: "金牌影院在线资源获取",
-  author: "两块",
+  author: "自用",
   globalParams: [
     {
       name: "multiSource",
