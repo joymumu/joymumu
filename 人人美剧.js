@@ -3,10 +3,10 @@ WidgetMetadata = {
   id: "rr_vod_full",
   title: "人人美剧",
   icon: "https://assets.vvebo.vip/scripts/icon.png",
-  version: "1.0.1",
+  version: "1.0.6",
   requiredVersion: "0.0.1",
   description: "获取人人美剧在线资源",
-  author: "两块",
+  author: "自用",
   globalParams: [
     {
       name: "multiSource",
