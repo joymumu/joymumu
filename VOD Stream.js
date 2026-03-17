@@ -21,12 +21,12 @@ const CHINESE_NUM_MAP = {
 
 WidgetMetadata = {
   id: "vod_stream",
-  title: "VOD Stream",
+  title: "VOD Stream1",
   icon: "https://assets.vvebo.vip/scripts/icon.png",
   version: "1.3.3",
   requiredVersion: "0.0.1",
   description: "获取聚合VOD影片资源",
-  author: "两块",
+  author: "自用",
   site: "https://github.com/2kuai/ForwardWidgets",
   globalParams: [
     {
